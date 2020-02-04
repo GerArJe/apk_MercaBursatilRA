@@ -1,6 +1,6 @@
 # MercaBursatilRA
 
-Este es un prototipo de aplciación móvil con la finalinad que pueda ser utilizado como herramienta de apoyo 
+Este es un prototipo de aplicación móvil con la finalinadd que pueda ser utilizado como herramienta de apoyo 
 enseñanza en el análisis del mercado bursátil usando Realidad Aumentada.
 
 En este repositorio econtraras:
